@@ -9,6 +9,11 @@ This project is built with Java,Spring Boot,PostgreSQL .The system provides Rest
 * Unit testing
 ![alt text](<image/Screenshot 2025-06-24 014132.png>)
 
+
+**Testing Frameworks**
+*JUnit
+*Mockito
+
 **TECH STACK**🚀
 
 * Language:Java
