@@ -2,6 +2,13 @@
 
 This project is built with Java,Spring Boot,PostgreSQL .The system provides Rest APIs for manage the students detail for basic crud operation.
 
+**NOTE**
+
+* The unit testing,integration testing and api testing are in seperate "test" branch and it is under development.
+
+* Unit testing
+![alt text](<image/Screenshot 2025-06-24 014132.png>)
+
 **TECH STACK**🚀
 
 * Language:Java
