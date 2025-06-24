@@ -9,7 +9,10 @@ import org.springframework.stereotype.Service;
 import com.example.student.entity.Student;
 import com.example.student.repository.StudentRepo;
 
+import lombok.extern.slf4j.Slf4j;
+
 @Service
+@Slf4j
 public class StudentService {
 
     @Autowired
@@ -17,6 +20,7 @@ public class StudentService {
 
     public Student addStudent(Student student)
     {
+        log.info("Adding student ....");
         return studentrepo.save(student);
     }
 
