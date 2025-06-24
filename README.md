@@ -4,7 +4,7 @@ This project is built with Java,Spring Boot,PostgreSQL .The system provides Rest
 
 **NOTE**
 
-* The unit testing,integration testing and api testing are in seperate "test" branch and it is under development.
+* The unit testing,integration testing and api testing are in seperate "test" branch and currently it is under development.
 
 * Unit testing
 ![alt text](<image/Screenshot 2025-06-24 014132.png>)
